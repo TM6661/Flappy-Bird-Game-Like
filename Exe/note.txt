@@ -1,0 +1,4 @@
+Tambahan Fitur
+1. Burung menembakkan fireball untuk menghancurkan pipe dengan menggunakan klik kanan (syaratnya adalah dengan mencapai point dengan kelipatan 5, maka akan menambah stok fireball)
+2. Batas atas agar burung terhalang
+3. Tombol Exit dengan esc
